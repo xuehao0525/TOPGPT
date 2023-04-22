@@ -96,7 +96,7 @@ export function SideBar(props: { className?: string }) {
           你的私人AI助理
         </div>
         <div className={styles["sidebar-logo"]}>
-          <img src="../icons/icon.png" height="44" width="44" />
+          <img src="/icon.png" height="44" width="44" />
         </div>
       </div>
 
